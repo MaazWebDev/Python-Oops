@@ -20,4 +20,4 @@ def greet(name, greeting="Hello"):
     print(f"{greeting}, {name}")
 
 hello()
-greet("chai", greeting="hanji ")
+greet("Maaz", greeting="Hello ")
